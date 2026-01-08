@@ -1,4 +1,4 @@
-# Gesture Fights
+# Gesture Clash
 
 Projekt łączy techniki rozpoznawania obrazu i uczenie maszynowe z interaktywną grą. Gra to rozbudowana wariacja gry "Kamień, papier, nożyce".
 
