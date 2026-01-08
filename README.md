@@ -34,6 +34,8 @@ Gra polega na pojedynku z komputerem. Gracz wybiera gesty, które "wyśle" do wa
 3.  Przed wysłaniem gestu do Unity wynik jest wybierany na podstawie histogramu złożoneog z odczytu danych.
 4.  Po wysłaniu gestu system blokuje rozpoznawanie na 3 sekundy, aby gracz zdążył przygotować kolejny gest bez przypadkowego wysyłania stanów przejściowych.
 
+![AI](screenshots/AI-test.png)
+
 ## 🎮 Rozgrywka w Unity
 
 Gra podzielona jest na fazy
@@ -56,5 +58,14 @@ Gra podzielona jest na fazy
 2.  Zainstaluj odpowiednie moduły: mediapipe, pickle, cv2
 4.  Uruchom skrypt główny.
 
+### Main Menu
+![Main Menu](screenshots/main-menu.jpg)
+
+### Gameplay
+![Gameplay](screenshots/game-screen.jpg)
+
+### Koniec meczu
+![End Match](screenshots/end-match.jpg)
+
 ---
-**Autorzy:** Mateusz Gozdek, Mateusz Fundowicz, Oskar Firlej
+*Autorzy: Mateusz Gozdek, Mateusz Fundowicz, Oskar Firlej*
